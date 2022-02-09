@@ -1,4 +1,4 @@
 # Python-Insurance-Analysis
 
-Jupyter Binder 
-https://mybinder.org/v2/gh/ipython/ipython-in-depth/b2f9442aa52118dec44ccb0ee749ea63ac578bba
+Binder
+https://mybinder.org/v2/gh/leahcimali/Python-Insurance-Analysis/HEAD?labpath=https%3A%2F%2Fgithub.com%2Fleahcimali%2FPython-Insurance-Analysis%2Fblob%2Fmain%2Fnotebook.ipynb
