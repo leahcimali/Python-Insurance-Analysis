@@ -1,4 +1,5 @@
 # Python-Insurance-Analysis
-
-Binder
-https://mybinder.org/v2/gh/leahcimali/Python-Insurance-Analysis/HEAD?labpath=https%3A%2F%2Fgithub.com%2Fleahcimali%2FPython-Insurance-Analysis%2Fblob%2Fmain%2Fnotebook.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leahcimali/Python-Insurance-Analysis/HEAD)
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/leahcimali/Python-Insurance-Analysis/HEAD
+ 
